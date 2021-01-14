@@ -1,0 +1,4 @@
+[core]
+    remote = ssh
+['remote "ssh"']
+    url = ssh://fylsunghwan@fyls.iptime.org/home/fylsunghwan/dataset
